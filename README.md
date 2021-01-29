@@ -1,1 +1,1 @@
-# tales_party_bot
+# tales_help_bot
